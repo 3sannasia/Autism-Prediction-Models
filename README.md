@@ -5,6 +5,6 @@ Creating and evaluating a synthetic dataset that analyzes what genetic traits an
 Utilizing python and sklearn and pandas.
 
 To commit:
-git add -u
+git add .
 git commit -m "REPLACE THIS WITH YOUR COMMIT MESSAGE"
 git push origin master
